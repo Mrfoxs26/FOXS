@@ -21,7 +21,7 @@ read -p "[?] PILIH BOY :  " pil;
 # batas gan
 if [ $pil = 1 ]
 then
-git clone https://github.com/B4N954N2/Free-Sms
+git clone https://github.com/B4N954N2-ID/Free-Sms
 cd Free-Sms
 python2 f-sms.py
 fi
