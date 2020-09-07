@@ -35,7 +35,7 @@ fi
 #batas gan
 if [ $pil = 3 ]
 then
-git clone https://github.com/B4N954N2/Brutal-sms
+git clone https://github.com/B4N954N2-ID/Brutal-sms
 cd Brutal-sms
 python2 brutal.py
 fi
