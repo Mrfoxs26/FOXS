@@ -34,7 +34,6 @@ python2 scan.py
 fi
 #batas gan
 if [ $pil = 3 ]
-if [ $pil = 3 ]
 then
 git clone https://github.com/B4N954N2/Brutal-s>
 cd Brutal-sms
