@@ -42,7 +42,7 @@ fi
 #batas gan
 if [ $pil = 4 ]
 then
-git clone https://github.com/B4N954N2/SpamCall
+git clone https://github.com/B4N954N2-ID/SpamCall
 cd SpamCall
 python2 Call.py
 fi
@@ -88,9 +88,6 @@ pip install requests mechanize
 pip2 install requests mechanize
 pkg install php
 fi
-
-
-
 
 
 
